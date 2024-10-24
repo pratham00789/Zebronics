@@ -6,5 +6,6 @@ public class starPattern {
         System.out.println("hello pratham kamble 4");
         System.out.println("hello pratham kamble 5");
         System.out.println("hello pratham kamble 6");
+        System.out.println("hello pratham kamble 888");
     }
 }
